@@ -1,8 +1,8 @@
-# **HDZero EZ Font Guide**
+# **HDZero EZ betaflight Font Guide**
 
 I was having trouble adding fonts to my HDZero goggles, so I decided to create a guide for dummies like myself.
 
-**1.** Download the font you want from [The HD-Zero GitHub](https://github.com/hd-zero/hdzero-osd-font-library) or make your own.
+**1.** Download the font you want from [The HD-Zero GitHub](https://github.com/hd-zero/hdzero-osd-font-library/tree/main/BTFL) or make your own.
 
 **2.** Rename the `.bmp` file you just downloaded to **BTFL_000.bmp**.
 

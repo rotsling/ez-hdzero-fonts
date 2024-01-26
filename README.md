@@ -14,6 +14,6 @@ I was having trouble adding fonts to my HDZero goggles, so I decided to create a
 
 **6.** Drag or copy/paste your **BTFL_000** file into the **"FC"** folder on your SD card we juast made.
 
-**7.** Enjoy your new font and fly safe.
+**7.** Put the sd card back in the goggles and Enjoy your new font.
 
 ![Morty Gif](https://github.com/rotsling/ez-hdzero-fonts/blob/main/morty.gif)

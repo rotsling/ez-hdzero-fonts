@@ -10,7 +10,7 @@ I was having trouble adding fonts to my HDZero goggles, so I decided to create a
 
 **4.** Format your SD card in the goggles.
 
-**5.** Put the SD card in your computer and create a folder named **"resource"**. Inside that folder, create another one named **"OSD"**, and inside that, create another one called **"FC"**. I'm not sure if Capital Letters matter but i do it this way nd it works.
+**5.** Put the SD card in your computer and create a folder named **"resource"**. Inside that folder, create another one named **"OSD"**, and inside that, create another one called **"FC"**. I'm not sure if Capital Letters matter but i do it this way and it works.
 
 **6.** Drag or copy/paste your **BTFL_000** file into the **"FC"** folder on your SD card.
 
